@@ -21,5 +21,3 @@ See [Browser Uploads to S3 using HTML POST Forms](https://aws.amazon.com/items/1
 - Test it and write tests
 
 Disclaimer: This is currently a WIP. Use at your own risk.
-
-License: See [UNLICENSE](UNLICENSE)
