@@ -1,0 +1,27 @@
+{
+  "name": "awsm-s3tokenvendor",
+  "version": "1.0.0",
+  "description": "AWSM Module for Vending S3 Tokens",
+  "main": "handler.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binoculars/awsm-s3tokenvendor"
+  },
+  "keywords": [
+    "awsm",
+    "s3",
+    "token"
+  ],
+  "author": "Barrett K. Harber <barrett.harber@gmail.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/binoculars/awsm-s3tokenvendor/issues"
+  },
+  "homepage": "https://github.com/binoculars/awsm-s3tokenvendor",
+  "dependencies": {
+    "bluebird": "^2.10.2"
+  }
+}

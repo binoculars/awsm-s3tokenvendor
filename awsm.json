@@ -1,0 +1,14 @@
+{
+  "name": "awsm-s3tokenvendor",
+  "version": "1.0.0",
+  "location": "https://github.com/binoculars/awsm-s3tokenvendor",
+  "author": "Barrett K. Harber <barrett.harber@gmail.com>",
+  "description": "",
+  "resources": {
+    "cloudFormation": {
+      "LambdaIamPolicyDocumentStatements": [],
+      "ApiGatewayIamPolicyDocumentStatements": [],
+      "Resources": {}
+    }
+  }
+}
