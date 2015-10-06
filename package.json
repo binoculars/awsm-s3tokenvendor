@@ -4,7 +4,8 @@
   "description": "AWSM Module for Vending S3 Tokens",
   "main": "handler.js",
   "scripts": {
-    "test": "node test"
+    "test": "node test",
+    "postinstall" : "jaws postinstall awsm-s3tokenvendor npm"
   },
   "repository": {
     "type": "git",
