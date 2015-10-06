@@ -1,0 +1,12 @@
+{
+	"files": [
+		{
+			"name": "a.png",
+			"size": 4096
+		},
+		{
+			"name": "b.gif",
+			"size": 8192
+		}
+	]
+}

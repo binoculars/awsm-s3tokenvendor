@@ -1,6 +1,6 @@
 {
   "name": "awsm-s3tokenvendor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AWSM Module for Vending S3 Tokens",
   "main": "handler.js",
   "scripts": {
