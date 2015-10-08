@@ -23,7 +23,7 @@
 
 
 var Promise = require('bluebird');
-var signing = require('../../lib/signing.js');
+var signing = require('awsm-s3tokenvendor');
 
 /**
  * Export for lambda handler
