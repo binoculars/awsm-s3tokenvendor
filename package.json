@@ -5,7 +5,7 @@
   "main": "handler.js",
   "scripts": {
     "test": "node test",
-    "postinstall": "jaws postinstall awsm-s3tokenvendor npm"
+    "postinstall": "jaws postinstall awsm-s3tokenvendor npm && npm i --prefix ../.."
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/binoculars/awsm-s3tokenvendor",
   "dependencies": {
-    "bluebird": "^2.10.2"
+    "bluebird": "^3.0.5"
   }
 }
