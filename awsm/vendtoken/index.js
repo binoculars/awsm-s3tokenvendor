@@ -22,7 +22,6 @@
  */
 
 
-var Promise = require('bluebird');
 var signing = require('awsm-s3tokenvendor');
 
 /**
