@@ -2,6 +2,8 @@
 [![npm version](https://badge.fury.io/js/awsm-s3tokenvendor.svg)](https://badge.fury.io/js/awsm-s3tokenvendor)
 
 # Description
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/binoculars/awsm-s3tokenvendor.svg)](https://greenkeeper.io/)
 An [AWSM module](/awsm-org/awsm) that returns upload tokens for S3 objects. Instead of handling uploads yourself with a passthrough, let AWS do the work for you by generating a signed request and let the client upload the file directly to S3.
 
 # Usage
